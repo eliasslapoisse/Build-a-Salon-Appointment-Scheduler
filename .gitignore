@@ -1,2 +1,7 @@
 node_modules
 .DS_Store
+<<<<<<< HEAD
+=======
+.freeCodeCamp
+.vscode
+>>>>>>> 3d459c0c4d47c1bfb952797fac2f678342cc73c7
